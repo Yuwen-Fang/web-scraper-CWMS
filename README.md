@@ -36,4 +36,5 @@ Making sure there is a file named data in the same folder as the script
 ../data
 ```
 
-:bug:
+- - - -
+Have a good day. :bug:
