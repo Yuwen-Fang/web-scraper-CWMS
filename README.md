@@ -33,7 +33,7 @@ end_date_str = "2023/3/16"
 ## Outputs
 Making sure there is a file named data in the same folder as the script
 ```Python
-../data
+../data/????.csv
 ```
 
 - - - -
